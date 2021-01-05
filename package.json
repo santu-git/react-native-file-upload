@@ -9,7 +9,7 @@
     "deploy-android": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res && react-native run-android"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "react": "16.8.6",
     "react-native": "0.60.4",
     "react-native-file-picker": "0.0.16",
